@@ -1,0 +1,4 @@
+#Wed Jan 02 03:24:04 MSK 2019
+base.0=E\:\\box\\stud\\Github\\newtumbl_custom\\newtumbl\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
