@@ -9,6 +9,17 @@
     </head>
     <body>
 		<iframe src="https://newtumbl.com" style="position: absolute; top:0; right:0; bottom:0px; left:0; width:100vw; height:100vh; border: none"></iframe>
+		<a href="#" id="info"  onclick="toggle_visibility('info');">
+			<div id="message">
+Made by alisabadass to show newTumblr staff how it can be
+			</div>
+		</a>
+		<script type="text/javascript">
+			function toggle_visibility(id) {
+			   var e = document.getElementById(id);
+				  e.style.display = 'none';
+			}
+		</script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>
